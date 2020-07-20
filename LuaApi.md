@@ -1,4 +1,4 @@
-# gideonproject API for Lua
+# luxi API for Lua
 
 <a name="-1"></a>
 
@@ -81,7 +81,7 @@ client.run_script("tetris.lua")
 ## <a name="2"></a>client.set_event_callback( event, function )
 | Argument | Type | Description |
 |-------------------------------|
-| event | string | Name of event. Reference: [here](https://gideonhack.pw/index.php?/topic/29-event-list/) |
+| event | string | Name of event. Reference: [here](soon_______________/) |
 | function | function(...) | Function to call when event raises |
 
 Subscribes to event **event**.
