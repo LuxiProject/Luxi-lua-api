@@ -155,7 +155,7 @@ end)
 Executes CS:GO command.
 
 ```lua
-client.exec('say "owned by gideonproject"', true)
+client.exec('say "owned by luxi-cheats"', true)
 ```
 
 [back to ToC](#-1)
